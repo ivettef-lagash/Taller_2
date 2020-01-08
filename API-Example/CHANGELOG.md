@@ -1,25 +1,27 @@
 # Change Log
+
 All notable changes to this project will be documented in this file.
 
-The format is based on [Keep a Changelog](http://keepachangelog.com/)
-and this project adheres to [Semantic Versioning](http://semver.org/).
+## 1.2.0 - 2020-01-08
 
-## 1.3.0 - 2019-08-06
 ### Feature
-    - Se agrega la funcionalidad de obtener puntos enrolados.
 
-## 1.2.0 - 2019-08-01
+    - Se agrega la funcionalidad de obtener código QR
+
+## 1.1.1 - 2020-01-08
+
 ### Feature
-    - Se agrega la funcionalidad de enrola de puntos de venta
 
-## 1.1.1 - 2019-07-05
-### Feature
-    - Se agrega la funcionalidad de Login usando origenes de datos.
+    - Se agrega la funcionalidad de rutas usando funciones y métodos http.
 
-## 1.0.1 - 2019-07-05
+## 1.0.1 - 2020-01-07
+
 ### fix
-    - Se crean corrección.
 
-## 1.0.0 - 2019-07-05
+    - Se crean correcciones de código y reestructuración de archivos y carpetas.
+
+## 1.0.0 - 2020-01-07
+
 ### Init
+
     - Se inicializa proyecto.

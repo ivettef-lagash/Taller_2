@@ -1,20 +1,38 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# Introduction
+
+Test application.
 
 # Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+
+2. Software dependencies:
+   In order to run this application you need to install the next dependences:
+
+-applicationinsights
+-cors
+-cross-env
+-dotenv
+-express
+-full-age-calculator
+-node-fetch
+-number-to-words
+-written-number
+-qr-image
+
+For this step you can run the next script : 'npm i'
+
+You can also install nodemon in order to make the edit process easier.
 
 # Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+
+To run the app, you just need to write 'npm start' in the terminal first.
+Then, to test te routes, go to your navigator and write the route you want to test, this should give you the respectful information.
 
 # Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+The development of this application was mostly made by the author.
+
+Besides, the next libraries were used:
+
+- [qr-image](https://www.npmjs.com/package/qr-image)
+- [written-number](https://www.npmjs.com/package/written-number)
+- [full-age-calculator](https://www.npmjs.com/package/full-age-calculator)
